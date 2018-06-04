@@ -1,0 +1,15 @@
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\MainWindow.g.cs
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\App.g.cs
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\Binary independent_MarkupCompile.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\Binary independent_MarkupCompile.lref
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\bin\Debug\Binary independent.exe.config
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\bin\Debug\Binary independent.exe
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\bin\Debug\Binary independent.pdb
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\MainWindow.baml
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\Binary independent.g.resources
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\Binary_independent.Properties.Resources.resources
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\Binary independent.csproj.GenerateResource.Cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\Binary independent.csproj.CoreCompileInputs.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\Binary independent.exe
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\Binary independent.pdb
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Binary independent\Binary independent\obj\Debug\Binary independent.csprojResolveAssemblyReference.cache

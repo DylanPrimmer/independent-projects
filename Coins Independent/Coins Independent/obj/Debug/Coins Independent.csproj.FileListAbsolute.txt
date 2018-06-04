@@ -1,0 +1,15 @@
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\App.g.cs
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\Coins Independent_MarkupCompile.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\bin\Debug\Coins Independent.exe.config
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\bin\Debug\Coins Independent.exe
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\bin\Debug\Coins Independent.pdb
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\MainWindow.g.cs
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\Coins Independent_MarkupCompile.lref
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\MainWindow.baml
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\Coins Independent.g.resources
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\Coins_Independent.Properties.Resources.resources
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\Coins Independent.csproj.GenerateResource.Cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\Coins Independent.csproj.CoreCompileInputs.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\Coins Independent.exe
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\Coins Independent.pdb
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\Coins Independent\Coins Independent\obj\Debug\Coins Independent.csprojResolveAssemblyReference.cache
