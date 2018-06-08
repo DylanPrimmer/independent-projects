@@ -1,0 +1,15 @@
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\bin\Debug\math tutor independent.exe.config
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\bin\Debug\math tutor independent.exe
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\bin\Debug\math tutor independent.pdb
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\math tutor independent.csprojResolveAssemblyReference.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\MainWindow.g.cs
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\App.g.cs
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\math tutor independent_MarkupCompile.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\math tutor independent_MarkupCompile.lref
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\MainWindow.baml
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\math tutor independent.g.resources
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\math_tutor_independent.Properties.Resources.resources
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\math tutor independent.csproj.GenerateResource.Cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\math tutor independent.csproj.CoreCompileInputs.cache
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\math tutor independent.exe
+\\HHSDC\181345$\My Documents\ICS3U\Programs\Independant Projects\math tutor independent\math tutor independent\obj\Debug\math tutor independent.pdb

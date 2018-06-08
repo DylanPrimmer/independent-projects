@@ -1,0 +1,21 @@
+﻿<Window x:Class="math_tutor_independent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:math_tutor_independent"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel x:Name="StackPanel">
+            <Label x:Name="MathTutor" Content="                             Math Tutor" FontSize="24" Height="44" />
+            <TextBlock x:Name="rndquestion" Text="Here is your question."/>
+            <TextBox x:Name="enter" Text="enter the answer here."/>
+            <Button Width="100" Content="Check Answer" Click="Button_Click" />
+            <TextBlock x:Name="Whole" Text="If answer does not equal whole number, round down. " Height="33" Margin="116,0,101,0" />
+
+
+        </StackPanel>
+
+    </Grid>
+</Window>
